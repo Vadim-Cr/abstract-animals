@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea78e85-a2db-4076-95d1-2ae8a7a3d8a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-animals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principale/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principale/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principale/allAnimals/Aquila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principale/allAnimals/Delfino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principale/allAnimals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principale/allAnimals/Passerotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principale/interfaces/CanFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principale/interfaces/CanSwim.java" afterDir="false" />
+    <list default="true" id="6ea78e85-a2db-4076-95d1-2ae8a7a3d8a6" name="Changes" comment="fine, no bonus">
+      <change afterPath="$PROJECT_DIR$/src/bonus/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bonus/LettoreDVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bonus/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bonus/PlayStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bonus/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,6 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1698235878462</updated>
     </task>
+    <task id="LOCAL-00001" summary="fine, no bonus">
+      <option name="closed" value="true" />
+      <created>1698244554794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698244554794</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fine, no bonus" />
+    <option name="LAST_COMMIT_MESSAGE" value="fine, no bonus" />
   </component>
 </project>
